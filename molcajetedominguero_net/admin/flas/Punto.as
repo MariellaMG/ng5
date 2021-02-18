@@ -1,1 +1,0 @@
-﻿package  {		import flash.display.*;		public class Punto extends MovieClip {		public function Punto() {			// constructor code		}	}	}
